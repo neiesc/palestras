@@ -1,0 +1,1 @@
+https://portaldesenvolvedor.com/blog/quando-python-foi-criado-conheca-a-historia-da-linguagem/
