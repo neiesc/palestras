@@ -31,4 +31,5 @@ Segundo a Agência Internacional de Energia, impulsionado pela IA, o consumo glo
 ---
 layout: image
 image: /referencia/RPF-computacaosustentavel-2025-03-info3-760.png
+backgroundSize: contain
 ---
