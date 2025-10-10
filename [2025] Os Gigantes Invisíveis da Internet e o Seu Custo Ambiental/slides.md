@@ -33,3 +33,27 @@ layout: image
 image: /referencia/RPF-computacaosustentavel-2025-03-info3-760.png
 backgroundSize: contain
 ---
+
+---
+layout: image
+image: /referencia/pollution-4796858_1920.jpg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /referencia/pollution-atmosphere-by-factory-exhaust-gases-environmental-disaster-poor-environment-city-smoke-smog-harmful-emissions-into-environment-scaled.jpg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /referencia/www.datacenterdynamics.com_br_notcias_setor-de-data-center-emitira-25-bilhoes-de-toneladas-de-co2-ate-2030_.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /referencia/www-theguardian-com.translate.goog_technology_2024_sep_15_data-center-gas-emissions-tech__x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.png
+backgroundSize: contain
+---
