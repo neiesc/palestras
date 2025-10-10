@@ -57,3 +57,11 @@ layout: image
 image: /referencia/www-theguardian-com.translate.goog_technology_2024_sep_15_data-center-gas-emissions-tech__x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc.png
 backgroundSize: contain
 ---
+
+---
+layout: image-left
+image: /referencia/importancia-tarefa-casa.jpg
+---
+# 🏫 Tarefa para casa
+
+## Por que a Inteligência Artificial gasta tanta energia?
