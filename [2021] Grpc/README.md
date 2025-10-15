@@ -1,5 +1,5 @@
 # gRPC: Conhecendo novo modelo de comunicação entre microsserviços
-[Link da palestra](https://edinei.dev/palestras/#grpc-workshop)
+[Link da palestra](https://edinei.dev/workshop-grpc)
 01. Microsserviços<br />
 O que é? Conceitos. Comunicação síncrona e assíncrona. Exemplos na GVP.
 
